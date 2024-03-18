@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
            # Options
-          user: imaadfaki
+          user: whg-imaadf
           template: classic
           base: header, activity
           config_timezone: Africa/Johannesburg
